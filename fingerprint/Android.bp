@@ -22,8 +22,6 @@ cc_binary {
         "libcutils",
         "liblog",
         "libhidlbase",
-        "libhidltransport",
-        "libhwbinder",
         "libutils",
         "libhardware",
         "android.hardware.biometrics.fingerprint@2.1",
